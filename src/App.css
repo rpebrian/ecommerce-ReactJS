@@ -1,0 +1,9 @@
+.cardStyle {
+	margin-top: 110px;
+}
+
+@media screen and (max-width: 500px){
+	.cardStyle {
+		margin-top: 60px;
+	}
+}
